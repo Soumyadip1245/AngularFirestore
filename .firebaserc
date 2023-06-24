@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "angularproject-6ac4f"
+  },
+  "targets": {
+    "angularproject-6ac4f": {
+      "hosting": {
+        "frontend": [
+          "angularproject-6ac4f"
+        ]
+      }
+    }
+  }
+}
